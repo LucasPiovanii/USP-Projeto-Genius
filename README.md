@@ -3,7 +3,7 @@ Aqui, serão disponibilizados os arquivos e detalhes sobre a elaboração de um 
 
 ## Conexões
 ![image](https://user-images.githubusercontent.com/106783009/181350627-2e6398a9-90bd-480f-895c-edd94e0f3545.png)
-![image](https://user-images.githubusercontent.com/106783009/181350804-592dbdda-099e-40c1-8090-c072c1223bc8.png)
+![image](https://user-images.githubusercontent.com/106783009/181351163-c2829b91-4be6-473a-b354-16541311220d.png)
 
 ## Integrantes do Grupo:
   Aluno(a) | Nº USP 
